@@ -1,0 +1,24 @@
+{
+  "name": "notion-cms",
+  "version": "1.0.0",
+  "description": "Testing Notion as a CMS with 11ty",
+  "main": "index.js",
+  "scripts": {
+    "dev": "eleventy --serve",
+    "build": "eleventy"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mihir-27/Notion-CMS.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Mihir-27/Notion-CMS/issues"
+  },
+  "homepage": "https://github.com/Mihir-27/Notion-CMS#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^1.0.0"
+  }
+}
